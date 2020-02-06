@@ -1,0 +1,5 @@
+jupyter
+jupyter-client
+pytest
+pytest-cov
+docker-py

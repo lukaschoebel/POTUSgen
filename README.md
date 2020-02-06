@@ -1,17 +1,25 @@
 # POTUSgen
 
-This idea behind this project came from my job as a assistant for the lecture *Fundamentals of Artificial Intelligence* at the Technical University of Munich. To teach students the concepts of probabilistic modeling, the concept was 
+As an assistant for the lecture [*Techniques in Artificial Intelligence*](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950430848&pSpracheNr=2) (IN2062) at the Technical University of Munich, the objective of this project was to teach students the concepts of probabilistic modeling through the implementation of a word generator which is based on a Markov Model.
 
 ## Content
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Requirements](#requirements)
 - [Getting Started](#getting-started)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Requirements
+
+<!-- TODO: Define Pyhton version -->
+- `Python`
+- `selenium`
+- `tweepy`
 
 ## Getting Started
 
