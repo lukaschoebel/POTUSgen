@@ -17,7 +17,7 @@ As an assistant for the lecture [*Techniques in Artificial Intelligence*](https:
 ## Requirements
 
 <!-- TODO: Define Pyhton version -->
-- `Python`
+- `Python` 3.6
 - `selenium`
 - `tweepy`
 
