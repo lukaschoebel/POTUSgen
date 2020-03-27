@@ -23,6 +23,11 @@ As an assistant for the lecture [*Techniques in Artificial Intelligence*](https:
 
 ## Getting Started
 
+<!-- TODO: Add Starting Guide -->
+
+## Docker & Troubleshooting
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/lukaschoebel/POTUSgen/blob/develop/LICENSE) file for details.
