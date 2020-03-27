@@ -7,19 +7,13 @@ As an assistant for the lecture [*Techniques in Artificial Intelligence*](https:
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Requirements](#requirements)
 - [Getting Started](#getting-started)
+- [Docker & Troubleshooting](#docker--troubleshooting)
+- [Requirements](#requirements)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Requirements
-
-<!-- TODO: Define Pyhton version -->
-- `Python` 3.6
-- `selenium`
-- `tweepy`
 
 ## Getting Started
 
@@ -48,9 +42,17 @@ docker login && docker push <USERNAME>/<EXERCISE NAME>
 
 `ARTEMIS Specific` Since ARTEMIS is based on Bamboo Build Plans, you have to simply connect the set up hosted DockerHub image with Bamboo. This is achieved by inserting `<DOCKER USRNAME>/<EXERCISE NAME>` to the provided option in Bamboo which can be found via `Actions > Configure Plan > Stages > Default Job > Docker`.
 
+## Requirements
+
+<!-- TODO: Define Pyhton version -->
+- `Python` 3.6
+- `selenium`
+- `tweepy`
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/lukaschoebel/POTUSgen/blob/develop/LICENSE) file for details.
 
 ## Acknowledgements
+
+- TUM [Artemis](https://github.com/ls1intum/Artemis)
