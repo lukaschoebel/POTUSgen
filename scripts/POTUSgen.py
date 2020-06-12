@@ -141,14 +141,23 @@ def load_data(filepath):
     
     return data
 
+def run_generator(data, n=3):
+    """Generates n many tweets
+
+    :param filepath: Path to the data
+    :returns data: Tweet data as a string
+
+    """
+
+    start = time.time()
+    for i in range(n):
+        print(gen_sentence(data) + "\n")
+        time.sleep(0.1)
+
+    end = time.time()
+    print(f"Runtime of the program is {round(end - start, 3)}s")
+
 if __name__ == "__main__":
 
     data = load_data("data/data.txt")
-
-    start = time.time()
-
-    print(gen_sentence(data))
-    
-    time.sleep(1)
-    end = time.time()
-    print(f"Runtime of the program is {end - start}")
+    run_generator(data)
