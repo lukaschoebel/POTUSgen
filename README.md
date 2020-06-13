@@ -1,3 +1,9 @@
+<p align="center">
+    <br>
+    <img src="https://raw.githubusercontent.com/lukaschoebel/POTUSgen/develop/assets/potusgen_header.png" width="400"/>
+    <br>
+<p>
+
 # POTUSgen
 
 As an assistant for the lecture [*Techniques in Artificial Intelligence*](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950430848&pSpracheNr=2) (IN2062) at the Technical University of Munich, the objective of this project was to teach students the concepts of probabilistic modeling through the implementation of a word generator which is based on a Markov Model.
@@ -19,6 +25,10 @@ As an assistant for the lecture [*Techniques in Artificial Intelligence*](https:
 
 <!-- TODO: Add Starting Guide -->
 - Unzip data set
+
+## Demo
+
+<img src="https://github.com/lukaschoebel/potusgen/blob/develop/assets/POTUSgen_demo.gif" width="800" />
 
 ## Docker & Troubleshooting
 
