@@ -14,6 +14,7 @@ As an assistant for the lecture [*Techniques in Artificial Intelligence*](https:
 
 
 - [Getting Started](#getting-started)
+- [Demo](#demo)
 - [Docker & Troubleshooting](#docker--troubleshooting)
 - [Requirements](#requirements)
 - [License](#license)
