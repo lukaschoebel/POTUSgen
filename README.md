@@ -24,8 +24,10 @@ As an assistant for the lecture [*Techniques in Artificial Intelligence*](https:
 
 ## Getting Started
 
-<!-- TODO: Add Starting Guide -->
-- Unzip data set
+1. Unzip data set or alternatively scrape Twitter data with the [this](https://github.com/bpb27/twitter_scraping)
+2. Put data into `data` folder
+3. Use `beautify_tweets.py` script to extract cleaned `.txt` file from `.json`
+4. Run `tweetgram.py` or the Jupyter notebook to generate messages
 
 ## Demo
 
@@ -67,3 +69,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Acknowledgements
 
 - TUM [Artemis](https://github.com/ls1intum/Artemis)
+- Twitter [Scraping Script](https://github.com/bpb27/twitter_scraping) by [bpv27](https://github.com/bpb27)
